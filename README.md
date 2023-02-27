@@ -4,10 +4,6 @@
 <h4>I want to be a great front-developer 🔥</h4>
 <h4>I’m currently learning Javascript,React, Algorithm 🌱</h4>
 
-<h2>Ranking</h2>
-<img align='' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chlwodnjs34">
-
-
 <h2><b>Skills</b></h2>
 <div>
   <p>
